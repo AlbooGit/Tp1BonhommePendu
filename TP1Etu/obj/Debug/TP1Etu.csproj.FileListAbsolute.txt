@@ -1,0 +1,19 @@
+C:\Users\Alboo\Desktop\Nouveau dossier\TP1Etu\TP1Etu\bin\Debug\TP1Prof.exe
+C:\Users\Alboo\Desktop\Nouveau dossier\TP1Etu\TP1Etu\bin\Debug\TP1Prof.exe.config
+C:\Users\Alboo\Desktop\Nouveau dossier\TP1Etu\TP1Etu\bin\Debug\ProjetProgrammationJeuxVideo1.XML
+C:\Users\Alboo\Desktop\Nouveau dossier\TP1Etu\TP1Etu\obj\Debug\TP1Etu.csprojResolveAssemblyReference.cache
+C:\Users\Alboo\Desktop\Nouveau dossier\TP1Etu\TP1Etu\obj\Debug\TP1Prof.exe
+C:\Users\Alboo\Desktop\Nouveau dossier\TP1Etu\TP1Etu\obj\Debug\TP1Prof.pdb
+C:\Users\Alboo\Documents\Visual Studio 2015\Projects\TP1Etu\TP1Etu\bin\Debug\TP1Prof.exe.config
+C:\Users\Alboo\Documents\Visual Studio 2015\Projects\TP1Etu\TP1Etu\bin\Debug\ProjetProgrammationJeuxVideo1.XML
+C:\Users\Alboo\Documents\Visual Studio 2015\Projects\TP1Etu\TP1Etu\obj\Debug\TP1Prof.exe
+C:\Users\Alboo\Documents\Visual Studio 2015\Projects\TP1Etu\TP1Etu\obj\Debug\TP1Prof.pdb
+C:\Users\Alboo\Documents\Visual Studio 2015\Projects\TP1Etu\TP1Etu\bin\Debug\TP1Prof.exe
+C:\Users\Alboo\Documents\Visual Studio 2015\Projects\TP1Etu\TP1Etu\bin\Debug\TP1Prof.pdb
+C:\Users\Alboo\Documents\Visual Studio 2015\Projects\TP1Etu\TP1Etu\obj\Debug\TP1Etu.csprojResolveAssemblyReference.cache
+C:\Users\Alboo\Documents\Visual Studio 2015\Projects\TP1Etu\TP1Etu\obj\Debug\TP1Prof.Properties.Resources.resources
+C:\Users\Alboo\Documents\Visual Studio 2015\Projects\TP1Etu\TP1Etu\obj\Debug\TP1Etu.csproj.GenerateResource.Cache
+C:\Users\Alboo\Documents\Git Projects\Tp1Session1\Tp1BonhommePendu\TP1Etu\bin\Debug\TP1Prof.exe.config
+C:\Users\Alboo\Documents\Git Projects\Tp1Session1\Tp1BonhommePendu\TP1Etu\bin\Debug\ProjetProgrammationJeuxVideo1.XML
+C:\Users\Alboo\Documents\Git Projects\Tp1Session1\Tp1BonhommePendu\TP1Etu\obj\Debug\TP1Prof.exe
+C:\Users\Alboo\Documents\Git Projects\Tp1Session1\Tp1BonhommePendu\TP1Etu\obj\Debug\TP1Prof.pdb

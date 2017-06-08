@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TP1Prof</name>
+    </assembly>
+    <members>
+        <member name="M:ProgrammationJeuxVideo1.TP1Etu.Run">
+            <summary>
+            La méthode Run est le point de départ (point d'entrée)
+            dans notre application.
+            </summary>
+        </member>
+        <member name="M:ProgrammationJeuxVideo1.TP1Etu.JouerUnMot">
+            <summary>
+            Choisi le mot pour le mettre en jeu, le masque, mets sa position dans la console, vérifie les lettres entrées par l'utilisateur si elles correspondent 
+            correspondent entrées par l'utilisateur si elles correspondent à celles du mot en jeu. Change la ligne si la lettre était mauvaise.
+            </summary>
+            <returns> booléen, si le mot est en jeu sera vrai. </returns>
+        </member>
+        <member name="M:ProgrammationJeuxVideo1.TP1Etu.ChoisirMotAleatoire">
+            <summary>
+            Choisit un mot de manière aléatoire parmi une liste de mots possibles.
+            </summary>
+            <returns>Le mot choisi de manière aléatoire</returns>
+        </member>
+        <member name="M:ProgrammationJeuxVideo1.TP1Etu.AfficherPiedDePage">
+            <summary>
+            fait afficher un console.writeline qui est créé pour être le bas de la page.
+            </summary>
+        </member>
+        <member name="M:ProgrammationJeuxVideo1.TP1Etu.AffichageEcranPrincipal">
+            <summary>
+            Fait afficher un console.writeline qui est un écran principal.
+            </summary>
+        </member>
+        <member name="M:ProgrammationJeuxVideo1.TP1Etu.DemanderSiJoueurVeutQuitter">
+            <summary>
+            Demande au joueur si il veut quitter le jeu
+            </summary>
+            <returns> retourne booléen, ce qui décide oui/non il veut jouer</returns>
+        </member>
+        <member name="M:ProgrammationJeuxVideo1.TP1Etu.AfficherEnteteJeu">
+            <summary>
+            Fait afficher un console.writeline qui est un entêtre de jeu, le haut de la page.
+            </summary>
+        </member>
+        <member name="M:ProgrammationJeuxVideo1.TP1Etu.AfficherStatistiquesPartie(System.Int32,System.Int32)">
+            <summary>
+            Permet d'afficher le nombre de mots trouvés et manqués avec un console.writeline.
+            </summary>
+            <param name="nombreMotsTrouves"></param>
+            <param name="nombreMotsRates"></param>
+        </member>
+        <member name="M:ProgrammationJeuxVideo1.TP1Etu.MasquerMot(System.String)">
+            <summary>
+            La fonction permet de censurer le mot en remplaçant les lettres par des astérisques.
+            </summary>
+            <param name="motAMasquer"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProgrammationJeuxVideo1.TP1Etu.DeterminerEtatMotCourant(System.String,System.String,System.Int32)">
+            <summary>
+            Détermine si le jouer à trop râté de lettres. Si oui il envoit un int. Ce int est utilisé pour déterminer si la partie est en marche ou pas.
+            </summary>
+            <param name="motATrouver"></param>
+            <param name="MotMasque"></param>
+            <param name="nbCaracteresManques"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProgrammationJeuxVideo1.TP1Etu.SaisirLettreEntreAetZ">
+            <summary>
+            Cette fonction enregistre la lettre sélectionné par l'utilisateur. 
+            </summary>
+            <returns> un char, la lettre sélectionné par l'utilisateur. </returns>
+        </member>
+        <member name="M:ProgrammationJeuxVideo1.TP1Etu.AfficherMotMasque(System.String,System.Int32,System.Int32)">
+            <summary>
+            Cette fonction permet d'afficher le mot censuré à un certain endroit selon les positions X et Y. 
+            </summary>
+            <param name="motMasque"></param>
+            <param name="positionDuMotX"></param>
+            <param name="positionDuMotY"></param>
+        </member>
+        <member name="M:ProgrammationJeuxVideo1.TP1Etu.JouerMusiqueDeFond">
+            <summary>
+            Cette fonction permet de jouer de la musique de fond.
+            </summary>
+        </member>
+        <member name="M:ProgrammationJeuxVideo1.TP1Etu.MusiqueMotRate">
+            <summary>
+            Cette fonction fait jouer un son lorsque la fonction est appelée.
+            </summary>
+        </member>
+        <member name="M:ProgrammationJeuxVideo1.TP1Etu.MusiqueMotReussi">
+            <summary>
+            Cette fonction fait jouer un son lorsque la fonction est appelée.
+            </summary>
+        </member>
+        <member name="T:TP1Prof.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:TP1Prof.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:TP1Prof.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:TP1Prof.Properties.Resources.GourmetRace">
+            <summary>
+              Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+            </summary>
+        </member>
+        <member name="P:TP1Prof.Properties.Resources.KirbyDeath">
+            <summary>
+              Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+            </summary>
+        </member>
+        <member name="P:TP1Prof.Properties.Resources.KirbyHi">
+            <summary>
+              Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+            </summary>
+        </member>
+    </members>
+</doc>
